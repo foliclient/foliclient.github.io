@@ -92,3 +92,5 @@ Thanks to WinterStars, exgodstatus, and TheDoctor7562 for giving me insight on t
 ## Build
 
 If for some ungodly reason you want to build the exe from source, install PyInstaller from pip, navigate to the cloned repo, then run `pyinstaller --onefile --icon=Icon32.ico --distpath=. --add-data "resources;resources" FoliClientInstaller.py`.
+
+This project was made with <3 by ablazingeboy, and wouldn't have been possible without my homies in Astral.

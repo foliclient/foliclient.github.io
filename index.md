@@ -26,7 +26,7 @@ Foli Client is a customized, preconfigured modpack intended to provide players w
 
 ## Installation Instructions
 
-Terrible video tutorial: https://youtu.be/bCiTwZmqE7A
+[Terrible video tutorial](https://youtu.be/bCiTwZmqE7A)
 (Note that the tutorial shows downloading the 'source code' folder, but as of Foli Client Installer 1.1.0, the exe is released as a standalone file on the Releases page)
 
 1. Create a **fresh** profile/instance of Minecraft. If using the default launcher, it is recommended to create a different installation directory for the profile you will be using for Foli Client. **I strongly suggest using MultiMC**, as it makes it easy to manage multiple Minecraft profiles, and allows you to install Fabric with one click.

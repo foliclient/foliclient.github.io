@@ -1,3 +1,8 @@
+---
+layout: page
+title: Foli Client
+---
+
 ![](https://github.com/foliclient/FoliClientInstaller/raw/1.16.x/resources/common/config/foliclientlogobg.png)
 
 ![](https://img.shields.io/github/downloads/foliclient/FoliClientInstaller/total?style=for-the-badge)
